@@ -1,0 +1,42 @@
+[2022/01/13 15:53:53] - Programa  Iniciado
+[2022/01/13 15:53:55] - Tapete iniciado
+[2022/01/13 15:54:01] - Tapete iniciado
+[2022/01/13 15:54:03] - Carro em aspiração
+[2022/01/13 15:54:08] - Carro em aspiração
+[2022/01/13 15:54:14] - Carro no rolo
+[2022/01/13 15:54:23] - Carro no rolo
+[2022/01/13 15:54:26] - Secador iniciado
+[2022/01/13 15:54:41] - Fechou Programa!
+[2022/01/13 15:56:00] - Programa  Iniciado
+[2022/01/13 15:56:05] - Tapete iniciado
+[2022/01/13 15:56:07] - Carro em aspiração
+[2022/01/13 15:56:41] - Carro em aspiração
+[2022/01/13 15:56:47] - Carro no rolo
+[2022/01/13 15:56:54] - Carro no rolo
+[2022/01/13 15:56:57] - Secador iniciado
+[2022/01/13 15:57:03] - Fechou Programa!
+[2022/01/13 16:05:13] - Programa  Iniciado
+[2022/01/13 16:05:22] - Fechou Programa!
+[2022/01/13 16:13:26] - Programa  Iniciado
+[2022/01/13 16:14:32] - Programa  Iniciado
+[2022/01/13 16:15:41] - Programa  Iniciado
+[2022/01/13 16:18:46] - Programa  Iniciado
+[2022/01/13 16:21:12] - Programa  Iniciado
+[2022/01/13 16:21:50] - Tapete iniciado
+[2022/01/13 16:21:52] - Carro em aspiração
+[2022/01/13 16:21:53] - Lavagem  passa a estado Estado Ocupado
+[2022/01/13 16:21:59] - Carro no rolo
+[2022/01/13 16:22:06] - Secador iniciado
+[2022/01/13 16:22:32] - Lavagem passa a Estado livre
+[2022/01/13 16:22:40] - Fechou Programa!
+[2022/01/17 08:45:53] - Programa  Iniciado
+[2022/01/17 08:46:12] - Lavagem  passa a estado Estado Ocupado
+[2022/01/17 08:46:17] - Lavagem passa a Estado livre
+[2022/01/17 08:52:33] - Programa  Iniciado
+[2022/01/17 08:52:44] - Fechou Programa!
+[2022/01/17 08:53:02] - Programa  Iniciado
+[2022/01/17 08:53:18] - Tapete iniciado
+[2022/01/17 08:53:20] - Carro em aspiração
+[2022/01/17 08:53:38] - Carro em aspiração
+[2022/01/17 08:53:44] - Carro no rolo
+[2022/01/17 08:54:32] - Fechou Programa!
